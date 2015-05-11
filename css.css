@@ -1,0 +1,93 @@
+body,html {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial;
+  background: #fff;
+}
+
+#main {
+  font-family: "Helvetica Neue", Helvetica, Arial;
+  text-align: left;
+  background: #fff;
+  max-width:100%;
+  color: #000;
+  word-wrap: break-word;
+  line-height:8px;
+}
+
+#footer {
+  text-align: center;
+}
+
+.c_0 {font-size: 9px; padding: 0 3px 0 3px; background: #ffffff; color: transparent;}
+.c_1 {font-size: 9px; padding: 0 3px 0 3px; background: #ffffff; color: transparent;}
+.c_2 {font-size: 9px; padding: 0 3px 0 3px; background: #ffffff; color: transparent;}
+.c_3 {font-size: 9px; padding: 0 3px 0 3px; background: #ffffff; color: transparent;}
+.c_4 {font-size: 9px; padding: 0 3px 0 3px; background: #ffffff; color: transparent;}
+.c_5 {font-size: 9px; padding: 0 3px 0 3px; background: #ffffff; color: transparent;}
+.c_6 {font-size: 9px; padding: 0 3px 0 3px; background: #ffffff; color: transparent;}
+.c_7 {font-size: 9px; padding: 0 3px 0 3px; background: #ffffff; color: transparent;}
+.c_8 {font-size: 9px; padding: 0 3px 0 3px; background: #ffffff; color: transparent;}
+.c_9 {font-size: 9px; padding: 0 3px 0 3px; background: #ffffff; color: transparent;}
+
+.c_0:hover, .c_0:active, red:focus {background: #FF5C5C;}
+
+.c_1:hover, .c_1:active, orange:focus {background: #FFB35C;}
+
+.c_2:hover, .c_2:active, yellow:focus {background: #FFFD9E; color: #000}
+
+.c_3:hover, .c_3:active, green:focus {background: #590;}
+
+.c_4:hover, .c_4:active, blue:focus {background: #426EFF;}
+
+.c_5:hover, .c_5:active, indigo:focus {background: #AD91CC;}
+
+.c_6:hover, .c_6:active, violet:focus {background: #D14DC6;}
+
+.c_7:hover, .c_7:active, navy:focus {background: #FFB35C;}
+
+.c_8:hover, .c_8:active, fuchsia:focus {background: #590;}
+
+.c_9:hover, .c_9:active, lime:focus {background: #AD91CC;}
+
+.button {
+  text-decoration: none;
+  color: #000;
+  padding: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(255,255,255,0.1);
+  float: left;
+  margin: 10px;
+}
+
+p {
+  color: none;
+}
+
+.soundtitle {
+  z-index: 100;
+  display: inline-block;
+  position: absolute;
+  margin: 0px;
+  right: 50px;
+  text-align: center;
+  bottom: 35px;
+
+}
+
+h1 {
+  margin: 1px;
+  padding: 1px;
+  display: inline-block;
+  font-size: 4.2em;
+}
+
+h3 {
+  margin: 1px;
+  padding: 1px;
+  display: inline-block;
+}
+
+#siteWrapper {
+  border: 4px solid black;
+}
